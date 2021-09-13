@@ -1,0 +1,190 @@
+
+body{
+    background-color: hsl(225, 100%, 94%);
+
+}
+
+
+.img-fondo
+{
+    position: absolute;
+    width: 100%;
+    top: 0;
+    height: 400px;
+}
+
+.img-header
+{
+    width: 350px;
+    height: 150px;
+}
+
+.card
+{
+    position: relative;
+    width: 350px;
+    height: 500px;
+    overflow: hidden;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    top: 20vh;
+    background-color: white;
+    
+    
+}
+ .title
+ {
+     text-align: center;
+     font-size: 30px;
+   font-family: "Red Hat Display", sans-serif;
+     margin-top: 5px;
+     
+    
+ }
+
+.text-center
+{
+    text-align: center;
+    font-family: "Red Hat Display", sans-serif;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 16px;
+    margin-top: -20px;
+    
+    
+}
+
+ .boton-central
+ {
+    
+     position: relative;
+     background-color: hsla(226, 100%, 94%, 0.377);
+     width: 250px;
+     margin-left: auto;
+     margin-right: auto;
+     height: 50px;
+     border-radius: 10px;
+     padding: 0.5em 1em;
+     top: 10px;
+     
+     
+ }
+
+
+
+ 
+ 
+ .info-plan{
+     position: relative;
+     margin-left: 50px;
+    margin-top: 54px;
+    margin-bottom: auto;
+    width: 90px;
+    height: 50px;
+    bottom: 100px;
+    
+    
+    
+    
+ }
+
+ .icon-music
+{
+    width: 40px;
+    height: 40px;
+    margin-top: 5px;
+    margin-bottom: auto;
+   
+} 
+
+ .text-1
+ 
+
+ {
+   
+display: block;
+margin-left: 50px;
+width: 150px;
+margin-left: auto;
+margin-right: auto;
+font-family: "Red Hat Display", sans-serif;
+
+
+ }
+
+ .text-2
+ {
+     
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 150px;
+     margin-top: -10px;
+     font-family: "Red Hat Display", sans-serif;
+     font-size: 13px;
+     color: hsl(227, 10%, 46%);
+ }
+ 
+
+ .btn{
+      
+      display: block;
+      width: 50px;
+      margin-left: auto;
+      margin-top: -140px;
+      font-family: "Red Hat Display", sans-serif;
+
+     
+      
+
+
+ }
+
+
+
+
+.btn-proc
+{
+    display: block;
+    background-color:mediumblue;
+    width: 250px;
+    height: 18px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    text-align: center;
+    color: mintcream;
+    border-radius: 5px;
+    text-decoration: none;
+    font-family: "Red Hat Display", sans-serif;
+}
+
+.cuerpo-proc
+{
+    position: relative;
+    top: 25px;
+    
+    
+}
+
+.cuerpo-canc
+{
+    position: relative;
+    text-align: center;
+    top: 45px;
+    text-decoration: none;
+}
+
+.attribution
+{
+    text-align: center;
+    
+    margin-top: 200px;
+}
+
+.btn-cancel
+{
+    text-decoration: none;
+    font-family: "Red Hat Display", sans-serif;
+}
